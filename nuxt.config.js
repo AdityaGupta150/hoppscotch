@@ -242,6 +242,12 @@ export default {
         file: "id-ID.json",
       },
       {
+        code: "hi",
+        name: "हिन्दी",
+        iso: "hi-IN",
+        "file: hi-IN.json",
+      },
+      {
         code: "tr",
         name: "Türkçe",
         iso: "tr-TR",
